@@ -19,3 +19,6 @@ test/test.fdb_latexmk
 test/test.fls
 test/test.log
 test/test.xdv
+figures/.DS_Store
+.DS_Store
+lutbeamer.bcf
